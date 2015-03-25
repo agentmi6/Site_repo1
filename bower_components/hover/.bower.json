@@ -1,0 +1,14 @@
+{
+  "name": "hover",
+  "homepage": "https://github.com/filipco56/hover",
+  "_release": "30998f7f5b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "30998f7f5b6322983f9d5cc8ef7548b646e72c14"
+  },
+  "_source": "git://github.com/filipco56/hover.git",
+  "_target": "*",
+  "_originalSource": "filipco56/hover",
+  "_direct": true
+}

@@ -1,0 +1,67 @@
+*{
+  font-family: sans-serif, verdana;
+}
+
+#wrap{
+  position: relative;
+  height:350px;
+  width:750px;
+  overflow: hidden;
+  margin:auto;
+  color: #ebebeb;
+  background-color: grey;
+  background-color:#335280;
+}
+
+h2{
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+#players{
+  float: left;
+  width: 165px;
+}
+
+#womens{
+  float: right;
+  width: 165px;
+}
+
+.player{
+  overflow: hidden;
+  display: none;
+  list-style: none;
+  width: 480px;
+}
+
+.player li{
+  margin-left: 152px;
+  margin-top: 10px;
+}
+
+.player img{
+  float:left;
+  cursor: pointer;
+}
+
+#img{
+  width:500px;
+  height: 200px;
+  background-color: #1d2f49;
+  position: absolute;
+  left:195px;
+}
+
+.cc{
+  text-align:center;
+  margin-right:10px;
+  font-size:20px;
+  height:40px;
+  color:#fff;
+  cursor: pointer;
+}
+
+.selected{
+  background-color: #0f1825;
+}

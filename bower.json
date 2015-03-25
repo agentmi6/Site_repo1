@@ -1,0 +1,23 @@
+{
+  "name": "my site",
+  "version": "1.0.0",
+  "homepage": "https://github.com/agentmi6/mySite",
+  "authors": [
+    "agentmi6@gmail.com <agentmi6@gmail.com>"
+  ],
+  "description": "plugins",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "daneden/animate.css#~3.2.6",
+    "hover": "filipco56/hover",
+    "jquery": "~2.1.3",
+    "plugin_for_others": "agentmi6/plugin_for_others"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "plugin_for_others",
+  "homepage": "https://github.com/agentmi6/plugin_for_others",
+  "_release": "9f04692e95",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9f04692e95a5ffdc3d23075ece2254a2869cfb90"
+  },
+  "_source": "git://github.com/agentmi6/plugin_for_others.git",
+  "_target": "*",
+  "_originalSource": "agentmi6/plugin_for_others",
+  "_direct": true
+}
